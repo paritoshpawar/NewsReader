@@ -2,7 +2,7 @@
 //  NewsReaderApp.swift
 //  NewsReader
 //
-//  Created by Mindstix on 04/12/23.
+//  Created by Paritosh on 04/12/23.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct NewsReaderApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NewsDashboardView()
         }
     }
 }

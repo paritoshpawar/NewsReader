@@ -2,7 +2,7 @@
 //  NewsReaderTests.swift
 //  NewsReaderTests
 //
-//  Created by Mindstix on 04/12/23.
+//  Created by Paritosh on 04/12/23.
 //
 
 import XCTest
